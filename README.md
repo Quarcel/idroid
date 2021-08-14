@@ -17,5 +17,5 @@ We Belive You Can Help peoples those want a Ios like Android Device.
  -------
  * Apple Maps.apk ----Based on---- Dark mode based on Wego-here, Light mode Based on Maps.me | if you create a APp that has Dark mod and light mode use any one. ( recommended= waze)
  * icloud.apk  ------Based on----- Dark mode based on Pcloud , Light Mode Based on ICE Drive.| if you create a APp that has Dark mod and light mode use any one. ( recommended= iDrive)  
- Recommended = Your Better Don't create Apps in Dark mode and DAY MODE Because Many Dev's has been complainted their didn't working Correctly,if they change them of App the App Show's original interface.
+ Recommended = Your Better Don't create Apps in Dark mode and DAY MODE Because Many Dev's has been complainted their Apps didn't working Correctly,if they change them of App the App Show's original interface.
 ©2021 Quarcel Foundation. All Rights are Reserved.
